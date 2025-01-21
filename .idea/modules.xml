@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GravitatorTownsend.iml" filepath="$PROJECT_DIR$/GravitatorTownsend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PotentialSolver.iml" filepath="$PROJECT_DIR$/PotentialSolver.iml" />
     </modules>
   </component>
 </project>
